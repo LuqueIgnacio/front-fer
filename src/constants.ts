@@ -1,0 +1,1 @@
+export const emotionsLabels = ["Enojo", "Disgusto", "Miedo", "Feliz", "Neutro", "Triste", "Sorpresa"];
